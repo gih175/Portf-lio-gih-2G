@@ -8,6 +8,7 @@ body{
 background-color: var(--cor-fundo);
 color: var(--cor-texto);
 }
+.,apresentaçao
 
 strong{
   color: var(--cor-destaque);
@@ -16,8 +17,8 @@ strong{
 a{
   background-color: var(--cor-destaque);
   color: var(--cor-texto);
-  padding: 10px 40px;
+  padding: 15px 40px;
   margin: 10px 5px;
   border-radius: 5px;
-  
+
 }
